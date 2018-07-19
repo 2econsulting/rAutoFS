@@ -11,7 +11,7 @@
 #### install 
 ```r
 library(devtools)
-install_github("jacobgreen1984/rAutoFS")
+install_github("2econsulting/rAutoFS")
 library(rAutoFS)
 ```
 
